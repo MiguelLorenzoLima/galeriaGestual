@@ -17,9 +17,9 @@ Implementar uma **galeria de imagens** exibida em grade, com **interações por 
 ## Telas
 
 <div align="center">
-  <img width="300" height="660" alt="Tela da Galeria" src="https://github.com/user-attachments/assets/20a78623-ef5a-497e-b0a1-fa982ddb380e" />
-  <img width="300" height="660" alt="Tela de Visualização" src="https://github.com/user-attachments/assets/1a5ca795-b9dc-45d5-a53e-036b3bf78538" />
-  <img width="300" height="660" alt="Modal de Exclusão" src="https://github.com/user-attachments/assets/03619105-dfaf-4ec0-acda-ca1e68a6b3a5" />
+  <img width="280" height="660" alt="Tela da Galeria" src="https://github.com/user-attachments/assets/20a78623-ef5a-497e-b0a1-fa982ddb380e" />
+  <img width="280" height="660" alt="Tela de Visualização" src="https://github.com/user-attachments/assets/1a5ca795-b9dc-45d5-a53e-036b3bf78538" />
+  <img width="280" height="660" alt="Modal de Exclusão" src="https://github.com/user-attachments/assets/03619105-dfaf-4ec0-acda-ca1e68a6b3a5" />
 </div>
 
 ---
